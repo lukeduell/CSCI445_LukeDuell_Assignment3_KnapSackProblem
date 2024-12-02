@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSCI445_LukeDuell_Assignment3", "CSCI445_LukeDuell_Assignment3\CSCI445_LukeDuell_Assignment3.csproj", "{0C44C4D3-B8FE-4699-8722-03DA8EDA9187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C44C4D3-B8FE-4699-8722-03DA8EDA9187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C44C4D3-B8FE-4699-8722-03DA8EDA9187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C44C4D3-B8FE-4699-8722-03DA8EDA9187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C44C4D3-B8FE-4699-8722-03DA8EDA9187}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEF7D0AC-A2BD-4877-99F6-E32736AE52D0}
+	EndGlobalSection
+EndGlobal
